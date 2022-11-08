@@ -1,0 +1,48 @@
+[class] {
+    background-color: black;
+}
+
+h1 {
+    color: rebeccapurple;
+    font-size: 50px;
+}
+
+.purple-text {
+    color: rebeccapurple;
+}
+
+.red-text {
+    color: red
+}
+
+.pink-bg {
+    background-color: pink;
+}
+
+.center-text {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+.text-bigger {
+    font-size: 80px;
+}
+
+h1 span {
+    font-size: 120px;
+}
+
+#crimson-bg {
+    background-color: crimson;
+}
+
+div {
+    color: teal;
+}
+
+p {
+    color: crimson;
+}
